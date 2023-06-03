@@ -70,7 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-# Personal-site
+# Simon Game
 
 Challenge to create a Simon Game from The Complete 2023 Web Development Bootcamp. 
 I made it for my portfolio as fullstack developer. Contact me if you have any requests 
