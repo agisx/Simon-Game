@@ -76,6 +76,10 @@ Challenge to create a Simon Game from The Complete 2023 Web Development Bootcamp
 I made it for my portfolio as fullstack developer. Contact me if you have any requests 
 or questions.
 
+## Pages
+![Screenshot header.](https://raw.githubusercontent.com/agisx/Simon-Game/main/start.png)
+![Screenshot content.](https://raw.githubusercontent.com/agisx/Simon-Game/main/gameplay.png)
+![Screenshot content.](https://raw.githubusercontent.com/agisx/Simon-Game/main/lose.png)
 
 ## 🚀 About Me
 I'm a full stack developer and IT enthusiast. Skilled in Programming, Teamwork, Software Development, and Project Management. Strong information technology professional with a Bachelor of Technology - BTech focused in Information Technology from Institut Teknologi Telkom Surabaya.
